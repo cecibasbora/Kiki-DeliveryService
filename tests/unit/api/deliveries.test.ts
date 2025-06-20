@@ -1,4 +1,4 @@
-import { POST } from "../../../app/api/route";
+import { POST } from "../../../app/api/deliveries/route";
 
 describe('POST method', () => {
   it('should create a new delivery', async () => {
